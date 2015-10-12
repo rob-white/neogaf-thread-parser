@@ -1,0 +1,1 @@
+Parses any Neogaf Thread via a base url and creates a .CSV of the overall sentiment (positive/negative) by day.
